@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "LarpSMP-dL20.aternos.me",
+    "port": 31523,
+    "version": "26.1.2 (67)",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "i wanna larp",
+        "Noa is Gay!",
+        "I like to Larp!"
       ]
     },
     "chat-log": true,
